@@ -1,1 +1,1 @@
-Small website that retrieves a lichess user's playing history for the last two months and generates a nice graphic to show off how active they have been, similar to GitHub's acitivity graph.
+Small website that retrieves a lichess user's playing history for the last two months and generates a nice graphic to show off how active they have been, similar to GitHub's acitivity graph. Currently a work in progress.
